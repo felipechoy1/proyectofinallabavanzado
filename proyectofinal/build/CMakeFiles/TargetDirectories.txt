@@ -1,0 +1,3 @@
+/mnt/c/Users/Felipe/Desktop/proyectofinal/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Felipe/Desktop/proyectofinal/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Felipe/Desktop/proyectofinal/build/CMakeFiles/exampleLA04.exe.dir
